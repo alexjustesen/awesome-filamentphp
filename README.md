@@ -30,4 +30,5 @@ See [Contributing](.github/CONTRIBUTING.md)
 
 - [3x1io/filament-excel](https://github.com/3x1io/filament-excel) - Excel export for resources for Filament admin. `MIT`
 - [althinect/filament-spatie-roles-permissions](https://github.com/Althinect/filament-spatie-roles-permissions) - Associate users with roles and permissions. `MIT`
+- [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) - A faceless blog content manager with configurable richtext and markdown support for filament admin panel. `MIT`
 
